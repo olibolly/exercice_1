@@ -1,0 +1,15 @@
+To infer the variability of each procedure - we will be using the standard deviation for each score. 
+The latter is being compiled for each procedure. 
+
+Median Time from ED Arrival to ED Departure for Admitted ED Patients	92.83178787038688
+Admit Decision Time to ED Departure Time for Admitted Patients	62.1666505939829
+Median Time from ED Arrival to ED Departure for Discharged ED Patients	40.70077322337158
+Median Time to Transfer to Another Facility for Acute Coronary Intervention- Reporting Rate	29.479326601050527
+Thrombolytic Therapy	21.954194561164023
+Head CT Scan Results for Acute Ischemic Stroke or Hemorrhagic Stroke Patients who Received Head CT or MRI Scan Interpretation Within 45 Minutes of ED Arrival	21.844653491103774
+Fibrinolytic Therapy Received within 30 Minutes of Hospital Arrival	18.7794213613377
+Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival	18.048443797995763
+Median Time to Pain Management for Long Bone Fracture	17.722358013930915
+Median Time from ED Arrival to Provider Contact for ED patients	16.882052975576602
+
+It would be interesting to investigate further and understand the high deviation is meaningful for each procedure. One could imagine that for a benigh intervention, high median time wouldn't matter much, when it does for an urgent intervention 

@@ -1,0 +1,12 @@
+We are looking at the correlation by hospital for the score we aggregated together with the survey score (already aggregated by hospitals).
+The survey for patients seems to be measuring the quality of service such as communication, cleanlines, responsivenesss...
+Rrather than trying to assess the quality of the intervention itself like the hospital scoring previously does. 
+
+When running the correlation, we get a pearsons correlation score of 
+
+-0.08375007233164833
+
+which that there is NO correlation between both. 
+
+It would be interesting to investigate the results further, maybe by breaking down by the different component of the survey or of the scores attached to hospitals.
+

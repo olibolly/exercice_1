@@ -1,0 +1,15 @@
+By using state as provided field in the hospitals entity one can aggregate the score per procedure by state.
+In this case the compilation is made at the state level for each procedure (not by averaginge score for each hospitals)
+
+DC	79.48558273161672
+DE	77.24524525654995
+NJ	76.22066424395247
+MD	75.26919581408328
+CA	74.47354453238555
+RI	73.80063863004567
+CT	73.23419422280219
+NY	72.91009175067664
+MA	72.71096152323517
+HI	72.15072008930711
+
+It seems that DC here is the best health care provider for this data set in the US
