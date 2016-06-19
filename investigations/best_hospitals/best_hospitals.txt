@@ -1,0 +1,20 @@
+The score for each hospital is being aggregated for time and effective care and readmissions and deaths.
+The average score is being calculated by hospitals with no weighting per procedure or normalization done to each procedure score. 
+The results are showing here that according to this approach the top hospitals are:
+
+CENTRAL PENINSULA GENERAL HOSPITAL	72.97619047619048
+PROVIDENCE SEWARD HOSPITAL	15.0
+PETERSBURG MEDICAL CENTER	15.0
+WRANGELL MEDICAL CENTER	15.0
+SAMUEL SIMMONDS MEMORIAL HOSPITAL	17.5
+SOUTH PENINSULA HOSPITAL	54.4
+ROY LESTER SCHNEIDER HOSPITAL,THE	79.46153846153847
+GOV JUAN F LUIS HOSPITAL & MEDICAL CTR	63.142857142857146
+GUAM MEMORIAL HOSPITAL AUTHORITY	55.55172413793103
+COMMONWEALTH HEALTH CENTER	16.75
+
+
+One would need to investigate and discuss on the modeling of the score to assess if it reflects a true representation of quality. 
+Also this does not take volume's of procedure into account or an eventual specialization of the hospital.
+
+
